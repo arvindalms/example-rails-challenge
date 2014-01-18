@@ -70,6 +70,8 @@
 
 
 ##### Create a Visual Representation of Different Charges
+*Note: If you are interviewing for front-end development, use Twitter Bootstrap to complete this section*
+
 On the view that shows all charges (most likely the *GET /charges* route), create three lists with H1 headers. 
 
 - List 1 - 
